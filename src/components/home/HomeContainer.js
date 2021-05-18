@@ -4,7 +4,7 @@ import "./home.css";
 const HomeContainer = () => {
     return(
         <div>
-            This is the Home component
+               <TasksContainer/>
         </div>
     )
 };
