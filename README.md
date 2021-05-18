@@ -1,3 +1,6 @@
+# I'm Incomplete :( 
+    This React Task App doesn't have all the functionality it should. It's a work in progress. I'll continue to expand on it, but for now I'd like for you to fork it yourself, clone it for yourself, and have it exist in your local repository to pull this down and really see what it's doing. The first part of working on any project is understanding the codebase. Read through this code so far in order for you to understand what every function, every piece of JSX, every component is doing. Have a question about the code? Create a pull request on my code for us to start a conversation :D 
+
 ## What is React Router? 
     This gives you access to routing in React. It provides you with router components like BrowserRouter, Link, Switch, and Route. 
     
